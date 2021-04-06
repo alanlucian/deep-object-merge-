@@ -1,0 +1,31 @@
+{
+  "name": "deep-object-merge",
+  "version": "1.0.0",
+  "description": "simple yet efective way to merge objects",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlucian/deep-object-merge-.git"
+  },
+  "keywords": [
+    "merge",
+    "deep-merge",
+    "object"
+  ],
+  "author": "alanlucian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanlucian/deep-object-merge-/issues"
+  },
+  "homepage": "https://github.com/alanlucian/deep-object-merge-#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "components": [
+        {
+            "foo": {
+                "bar": 15,
+                "nd": null
+            }
+        },
+        {
+            "foo": {
+                "bar": 19,
+                "nd": null
+            }
+        }
+    ]
+}
